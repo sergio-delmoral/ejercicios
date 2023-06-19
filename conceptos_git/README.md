@@ -7,7 +7,7 @@
     * [Pregunta 2](#Pregunta-2)
     * [Pregunta 3](#Pregunta-3)
 
-### Ejercicio 
+### Ejercicio
 
 Vamos a describir el estado de un repositorio de git de forma simplificada, tiene 2 partes importantes:
 
