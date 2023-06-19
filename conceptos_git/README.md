@@ -52,7 +52,7 @@ git checkout another-idea
 
 Cambia el diagrama para representar el nuevo estado del repositorio: tanto el grafo de commits como la tabla de branches pueden cambiar.
 
-##### Respuesta 1
+##### Respuesta 1 
 
 ![ejercicio1_git](media/ejercicio1_git.svg)
 
