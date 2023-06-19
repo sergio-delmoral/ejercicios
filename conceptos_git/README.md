@@ -54,7 +54,7 @@ Cambia el diagrama para representar el nuevo estado del repositorio: tanto el gr
 
 ##### Respuesta 1
 
-
+![ejercicio1_git](media/ejercicio1_git)
 
 #### Pregunta 2
 
