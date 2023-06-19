@@ -47,7 +47,7 @@ NB: hay que inventarse la fecha y el hash:
 Supongamos que tenemos otra idea, así que hacemos otro branch en este punto y cambiamos a este branch:
 ```
 git branch another-idea
-git checkout another-idea
+git checkout another-idea  
 ```
 
 Cambia el diagrama para representar el nuevo estado del repositorio: tanto el grafo de commits como la tabla de branches pueden cambiar.
