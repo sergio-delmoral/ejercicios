@@ -70,7 +70,7 @@ Cambia el diagrama para representar el nuevo estado del repositorio: tanto el gr
 
 ##### Respuesta 2 
 
-![ejercicio1_git](media/ejercicio1_git.svg)
+![ejercicio2_git](media/ejercicio2_git.svg)
 
 #### Pregunta 3
 
